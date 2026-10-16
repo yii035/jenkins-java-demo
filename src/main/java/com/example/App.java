@@ -9,5 +9,6 @@ public class App {
         System.out.println("10 - 4 = " + calc.subtract(10, 4));
         System.out.println("6 * 7 = " + calc.multiply(6, 7));
         System.out.println("20 / 5 = " + calc.divide(20, 5));
+        System.out.println("Jenkins Pipeline Demo - Cập nhật tự động!");
     }
 }
