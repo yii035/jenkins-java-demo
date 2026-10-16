@@ -11,7 +11,7 @@ class CalculatorTest {
 
     @Test
     void addShouldReturnSum() {
-        assertEquals(, calc.add(2, 3));
+        assertEquals(5, calc.add(2, 3));
     }
 
     @Test
